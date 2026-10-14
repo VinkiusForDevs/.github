@@ -6,12 +6,11 @@
 
 #### One Application, unlimited users — each with their own connectors and credentials, isolated and never exposed to Vinkius.
 
-![Vinkius Connect](https://img.shields.io/badge/Vinkius%20Connect-11%2C000%2B%20connectors-blue?style=flat-square)
-![AI capabilities](https://img.shields.io/badge/AI%20capabilities-20M%2B-orange?style=flat-square)
-[![API](https://img.shields.io/badge/api.api.vinkius.com-11%2C000%2B%20connectors-blue?style=flat-square)](https://api.vinkius.com)
-[![Docs](https://img.shields.io/badge/docs.vinkius.com-Connect%20SDK-black?style=flat-square)](https://docs.vinkius.com/connect-sdk)
+[![Connectors](https://img.shields.io/badge/connectors-11%2C000%2B-blue?style=flat-square)](https://vinkius.com)
+[![AI Capabilities](https://img.shields.io/badge/AI%20capabilities-20M%2B-orange?style=flat-square)](https://vinkius.com)
+[![Docs](https://img.shields.io/badge/vinkius.com-Connect%20SDK-black?style=flat-square)](https://vinkius.com/learn/en/connect-sdk)
 
-[Website](https://vinkius.com) · [Docs](https://docs.vinkius.com) · [Cloud](https://cloud.vinkius.com) · [AI Connect](https://vinkius.com/learn/en/connect-sdk)
+[Website](https://vinkius.com) · [Docs](https://vinkius.com/learn/en/connect-sdk) · [Cloud](https://cloud.vinkius.com) · [AI Connect](https://vinkius.com/learn/en/connect-sdk)
 
 <img src="https://raw.githubusercontent.com/VinkiusForDevs/.github/main/assets/hero.webp" alt="Autonomous warehouse orchestrated by AI — the Vinkius connectivity platform" width="100%" />
 
@@ -91,7 +90,6 @@ One Application, many users, zero exposure. Per-user isolation, write-only crede
 
 - **Docs**: [vinkius.com/learn/en/connect-sdk](https://vinkius.com/learn/en/connect-sdk)
 - **Cloud dashboard**: [cloud.vinkius.com](https://cloud.vinkius.com)
-- **API**: [api.vinkius.com](https://api.vinkius.com)
 - **Issues**: open an issue in the SDK repository for your language
 
 <div align="center">
