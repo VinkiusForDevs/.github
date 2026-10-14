@@ -6,9 +6,8 @@
 
 #### One Application, unlimited users — each with their own connectors and credentials, isolated and never exposed to Vinkius.
 
-[![Connectors](https://img.shields.io/badge/connectors-11%2C000%2B-blue?style=flat-square)](https://vinkius.com)
-[![AI Capabilities](https://img.shields.io/badge/AI%20capabilities-20M%2B-orange?style=flat-square)](https://vinkius.com)
-[![Docs](https://img.shields.io/badge/vinkius.com-Connect%20SDK-black?style=flat-square)](https://vinkius.com/learn/en/connect-sdk)
+[![Connectors](https://api.vinkius.com/badges/connectors.svg)](https://vinkius.com)
+[![AI Capabilities](https://api.vinkius.com/badges/capabilities.svg)](https://vinkius.com)
 
 [Website](https://vinkius.com) · [Docs](https://vinkius.com/learn/en/connect-sdk) · [Cloud](https://cloud.vinkius.com) · [AI Connect](https://vinkius.com/learn/en/connect-sdk)
 
